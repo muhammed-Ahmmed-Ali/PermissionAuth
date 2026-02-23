@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PermissionAuth": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62524;http://localhost:62525"
+    }
+  }
+}
